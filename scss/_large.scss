@@ -1,0 +1,14 @@
+header, nav, main {
+    max-width: 960px;
+    margin: auto;
+}
+
+.flip-card {
+    flex-basis: 31%;
+    height: 300px;
+    img {
+        height: 100%;
+    }
+}
+
+/* NAVIGATION STUFF GOES HERE  */
